@@ -69,7 +69,7 @@ section{
 #navTitle>p,#navElements>p{
     font-weight: bold;
 }
-#rozvrh{
+.rozvrh{
     width: 100%;
 }
 #mainImage{
